@@ -18,6 +18,11 @@
     * [Achat](https://www.gotronic.fr/art-paire-de-roues-136-mm-dgr136-20584.htm)
 * 196-4802 - Joint torique RS PRO, Ø int. 50.39mm, Ø ext. 57.45mm, épais. 3.53mm, en Caoutchouc Nitrile
     * [Achat](https://fr.rs-online.com/web/p/joints-et-joints-toriques/1964802)
+
+| Code RS | Diamètre intérieur | Diamètre intérieur tolérance | Epaisseur | Epaisseur tolérance |
+|---------|--------------------|------------------------------|-----------|---------------------|
+| 1964802 | 50.39 mm           | 0.48 mm                      | 3.53 mm   | 0.1 mm              |
+
 * 286-4503 - Poulie pour courroie crantée en Aluminium 12 dents , pas de 2.5mm, alésage 3mm
     * [Achat](https://fr.rs-online.com/web/p/poulies/2864503)
 * 286-4597 - Poulie pour courroie crantée en Aluminium 36 dents , pas de 2.5mm, alésage 6mm
